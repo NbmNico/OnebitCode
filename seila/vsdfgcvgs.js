@@ -1,0 +1,1 @@
+console.log('POR QUE VOCE NAO FUNCIONAaa')
